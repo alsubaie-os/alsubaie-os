@@ -8,7 +8,7 @@ Have embarked on multiple projects in the data analysis, data engineering, Data 
 
 - 🏫 Fresh graduate Software Engineer from [KFUPM](http://www.kfupm.edu.sa/Default.aspx)
 
-- 🌱 I’m currently preparing for Certified Data Management Professional [**(CDMP)**](https://cdmp.info/about/) certification
+- 🌱 I’m currently Learning About Data Privacy
 
 - 👨‍💻 All of my projects are available at [https://github.com/alsubaie-os](https://github.com/alsubaie-os)
 
