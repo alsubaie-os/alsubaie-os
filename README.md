@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osama Alsuabie</h1>
-Fresh graduate Software Engineer with a strong passion for Data Engineering, Data Governance and Data Quality.
+Fresh graduate Software Engineer with a strong passion for Data Engineering, Data Governance, and Data Quality.
 
-<br>Skilled in building Data pipelines, Data warehouses, Data Governance, and Data Quality, Python and its libraries (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn), and SQL (PostgreSQL), and NoSQL (Apache Cassandra, MongoDB), Tableau.
+<br>Skilled in Data warehouses, Data Governance, and Data Quality, ETL, Python and its libraries (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn), and SQL (PostgreSQL), and NoSQL (Apache Cassandra, MongoDB), Tableau.
 Have embarked on multiple projects in the data analysis, data engineering, Data Management fields.
 
 ## **About me:**
